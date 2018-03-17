@@ -1,0 +1,14 @@
+{
+  "name": "speedtestschemas",
+  "version": "1.0.0",
+  "description": "Schemas used to test the speedtest software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Ong",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^4.37.1"
+  }
+}
