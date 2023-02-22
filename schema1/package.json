@@ -9,6 +9,6 @@
   "author": "Aaron Ong",
   "license": "ISC",
   "dependencies": {
-    "sequelize": "^4.37.1"
+    "sequelize": "^6.28.2"
   }
 }
